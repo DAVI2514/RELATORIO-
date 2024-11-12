@@ -47,7 +47,7 @@
 </head>
 <body>
     <h2>Formulário de Contato</h2>
-    <form action="mailto:davicouto99@gmail.com" method="post" enctype="text/plain" onsubmit="showConfirmation()">
+    <form action="mailto:hhhhhhhhh@gmail.com" method="post" enctype="text/plain" onsubmit="showConfirmation()">
         <label for="name">Nome:</label>
         <input type="text" id="name" name="name" required>
         
